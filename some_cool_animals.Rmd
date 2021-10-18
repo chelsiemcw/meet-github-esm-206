@@ -56,7 +56,13 @@ Info on ring-tails goes here.
 We'll also learn about `knitr::include_raphics()`
 
 *After we've saved our work, we need to push this to github...plan on your computer blowingup!*
-Currently only two files are different than the original document. We've modified the .rmd and we've created (via knit'd) the html file. 
+Currently only two files are different than the original document. We've modified the .rmd and we've created (via knit'd) the html file. A is for adding, Then we staged and commit'd the changes. However we've not sent those changes back to Github yet. To do that, we'll push our changes. 
+
+A few fun facts about ring tail cats:
+
+ - they can rotate their back legs 180 degrees; so they're great at climbing
+ - they're elusive but not endangered
+ - they're closely related to racoons and sometimes get confused for them. 
 
 ###
 
